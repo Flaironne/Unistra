@@ -1,0 +1,196 @@
+{
+    "slogan": "Jouez, bluffez, misez... volez.",
+    "inscriptiongang": "Rejoindre le GANG",
+    "connexion": "Se connecter",
+    "inscription_titre":"INSCRIPTION",
+    "connexion_titre":"CONNEXION",
+
+
+    "retour": "Retour accueil",
+    "username":"Nom d'utilisateur",
+    "Email":"Adresse mail",
+    "password":"Mot de passe",
+    "inscription": "Inscription",
+    "birthday" : "Date de naissance:",
+    "username_existe": "Ce nom d'utilisateur existe déjà.",
+    "username_invalide": "Le nom d'utilisateur doit être compris entre 6 et 12 caractères.",
+    "mail_invalide": "L'adresse mail est invalide.",
+    "password_invalide": "Le mot de passe doit être compris entre 6 et 12 caractères.",
+    "majeur": "L'utilisateur doit être majeur pour s'inscrire.",
+    "champ_vide": "Veuillez remplir tous les champs.",
+    "compte": "J'ai déjà un compte",
+    "champ_invalide": "Adresse mail ou mot de passe incorrect. Veuillez réessayer.",
+    "create_acc": "Créer un compte",
+    "regles": "Règles du jeu",
+    "p_1": "Le poker est une famille de jeux de cartes comprenant de nombreuses formules et variantes. Il se pratique à plusieurs joueurs avec un jeu généralement de cinquante-deux cartes et des jetons représentant les sommes misées.Les séquences de jeu alternent distribution de cartes et tours d’enchères.",
+    "p_2": "Les règles de Poker Gang ne sont pas tout à fait identiques à celles d’un poker traditionnel, nous avons décidé de revisiter certaines parties afin de construire une variante. Notre jeu implémente des rôles pour chaque joueur, faisant référence à des membres d'un 'gang'.",
+    "h3_1": "Les points essentiels: ",
+    "ul_1_li_1": "Deux cartes, ne pouvant être vues que par le joueur qui les reçoit, sont distribuées à chaque joueur.",
+    "ul_1_li_2": "Le croupier révèle cinq cartes – trois d’un coup, puis une quatrième, puis une cinquième – qui peuvent être utilisées par tous les joueurs pour former la meilleure main à cinq cartes possibles.",
+    "ul_1_li_3": "Les joueurs misent chacun leur tour avant et après la distribution de chaque carte. Pour rester dans la main et voir la prochaine carte, tous les joueurs doivent avoir placé la même montant de jetons dans le pot.",
+    "ul_1_li_4": "La meilleure main de poker remporte le pot.",
+    "ul_1_li_5": "6 joueurs maximum (croupier exclu)",
+    "p_3": "Le premier tour commence toujours par une mise automatique de la personne (First Shooter) qui se trouve à gauche du croupier (appelé « Dealer » dans Poker Gang) qui correspondra à 10 pourcents du joueur le moins riche. Par la suite le « First Shooter » change dans le sens des aiguilles d’une montre.",
+    "h3_2": "Actions disponibles pour chaque joueur: ",
+    "ul_2_li_1": "Se coucher: abandonne le tour en perdant sa mise.",
+    "ul_2_li_2": "Checker: si personne n’a misé quoi que ce soit, un joueur peut alors checker et ne pas miser de jetons.",
+    "ul_2_li_3": "Miser: miser davantage de jetons.",
+    "ul_2_li_4": "Relancer: suivre la mise précédente.",
+    "h3_3": "Déroulement d'une partie:",
+    "ul_3_li_1": "Premier tour: aucune carte n'est dévoilée, la mise continue jusqu’à que tous les joueurs 'check'.",
+    "ul_3_li_2": "Deuxième tour: trois cartes sont dévoilées par le croupier, le jeu continue de manière classique de droite vers la gauche.",
+    "ul_3_li_3": "Troisième tour: une quatrième carte est dévoilée, le jeu continue de manière classique de droite vers la gauche.",
+    "ul_3_li_4": "Quatrième tour: la dernière carte est dévoilée, le jeu continue de manière classique de droite vers la gauche.",
+    "ul_3_li_5": "Tour tapis: si dans un tour chaque joueur non couché effectue un tapis, les cinq cartes sont alors directement dévoilées.",
+    "ul_3_li_6": "Tour couché : si tous les joueurs se couchent alors la partie est terminée.",
+    "h3_4": "Les différents rôles proposés par Poker Gang:",
+    "pouvoir_role": "Chaque joueur peut utiliser le pouvoir de son rôle en cliquant sur la boule de cristal. Ce pouvoir n'est disponible qu'une seule fois par partie. A la fin de chaque partie, les rôles sont réattribués à chaque joueur.",
+    "h4_voleur": "Le voleur: ",
+    "p_voleur": "Peut échanger une de ses cartes contre une de ses adversaires, sans la connaitre.",
+    "h4_escroc": "L'escroc: ",
+    "p_escroc": "Peut récupérer la moitié de sa mise en se couchant.",
+    "h4_voyante": "L'infiltré: ",
+    "p_voyante": "Peut voir la carte d’un des joueurs.",
+    "h4_policier": "Le policier: ",
+    "p_policier": "Peut mettre en prison un joueur afin qu’il ne puisse pas utiliser son pouvoir durant cette partie.",
+    "h4_usurpateur": "L'usurpateur: ",
+    "p_usurpateur": "Peut prendre le rôle d’un des joueurs.",
+    "h4_insolvable": "L'insolvable: ",
+    "p_insolvable": "Peut suivre en payant uniquement 50% du montant de la mise.",
+    "deconnexion": "Se déconnecter",
+    "profil": "Modifier mon profil",
+    "obt_jetons": "Obtenir des jetons",
+    "jouer": "Jouer",
+    "classement": "Classement",
+    "rang": "Rang",
+    "joueur": "Joueur",
+    "victoire": "Victoires",
+    "jetons": "Jetons",
+
+    "fermer": "Fermer",
+
+    "jetons_en_jeu": "jetons en jeu",
+    "jetons_restants": "restants",
+
+    "miser": "Miser",
+    "coucher": "Se coucher",
+    "check": "Checker",
+
+    "voleur": "Voleur",
+
+    "input_jetons_vide": "Veuillez saisir un montant.",
+
+    "quitter_jeu": "Voulez-vous vraiment quitter le jeu?",
+
+    "oui": "Oui",
+    "non": "Non",
+    
+    "suivre": "Suivre",
+    "tapis": "Tapis",
+
+    "gagner_partie": "a gagné la partie",
+
+    "remporter_jetons": "jetons remportés",
+
+    "rejouer_partie": "Une nouvelle partie va commencer. Cliquez sur prêt pour y participer.",
+
+    "pret": "Prêt",
+
+    "attente_joueurs": "En attente de joueurs",
+
+    "rejoindre_partie": "Rejoindre une partie",
+    "creer_partie": "Créer une partie",
+
+    "mise_negative": "Veuillez saisir un montant supérieur à 0.",
+    "jetons_manquants": "Pas assez de jetons!",
+    "mise_mini": "Veuillez miser au moins",
+    "mise_blind": "Veuillez miser au moins",
+    "mise_zero": "Veuillez miser un montant supérieur à 0",
+
+    "attente_spec": "Une partie est déjà en cours. Attendez qu'elle se termine pour jouer.",
+
+    "qfr_desc": "La plus forte main possible du poker. Elle est composée de : As, Roi, Dame, Valet, 10, tous de la même couleur (pique, carreau, coeur ou trèfle). Si deux joueurs ont une quinte flush royale, ils se partageront le pot.",
+    "qf_desc": "Une quinte flush est similaire à la quinte flush royale. Il s'agit d'une suite combinée à une couleur, mais sans l'As comme plus haute carte. Par exemple : 9, 8, 7, 6 et 5, tous d'une même couleur. Lorsque deux joueurs ont une quinte flush, le joueur qui a la carte la plus haute de la suite l'emporte. Lorsque les deux mains sont identiques, le pot est divisé entre les deux joueurs.",
+    "carre_desc": "Un carré est une main qui contient quatre cartes d'un même rang comme quatre As ou quatre Valets. Lorsque deux joueurs ont un carré, celui qui a le plus haut l'emporte. Si les deux joueurs ont le même carré, le pot est remis à celui qui a la cinquième carte la plus haute, appelée aussi acolyte.",
+    "full_desc": "Trois cartes d'un même rang combinées à deux autres d'un même rang. Exemples de full : trois Rois et deux 10, ou trois 4 et deux As. Lorsque deux joueurs ont un full, celui qui détient les trois cartes du même rang les plus hautes gagne. Dans les deux exemples proposés auparavant, le joueur qui a les trois Rois gagne.",
+    "couleur_desc": "Une couleur est une main qui contient cinq cartes de même couleur : cinq piques, cinq trèfles, cinq carreaux ou cinq cœurs. Lorsque deux joueurs ou plus ont une couleur, celui qui a la carte la plus haute remporte la main. Si deux mains ont la même carte la plus haute, la seconde carte la plus haute déterminera le gagnant, et ainsi de suite.",
+    "quinte_desc": "Cinq cartes qui se suivent numériquement et forment une suite, comme 6, 5, 4, 3 et 2. Lorsque deux joueurs ou plus ont une quinte, celui qui a la carte la plus haute l'emporte. Si deux joueurs ont la même carte la plus haute, ils partageront le pot. L'As peut jouer comme la plus haute carte mais aussi comme la plus faible. Par exemple : As, Roi, Dame, Valet, 10 ou As, 2, 3, 4, 5. L'As est la seule carte qui peut s'utiliser de cette façon.",
+    "brelan_desc": "Trois cartes de même valeur, comme trois Valets ou trois 8. Lorsque deux joueurs ont un brelan, celui qui a le brelan dont la valeur est la plus élevée, l'emporte. Si deux joueurs ont le même brelan, le joueur qui a la quatrième carte la plus haute l'emporte.",
+    "deux_paires_desc": "Une main qui consiste à avoir deux paires, comme deux 10 et deux 6. Si deux joueurs ont deux paires, celui avec la paire la plus haute l'emporte. Si les deux joueurs ont la même paire, celui avec la seconde paire la plus haute l'emporte. Si les deux paires sont identiques pour les deux joueurs, celui dont l'acolyte est le plus haut l'emporte.",
+    "une_paire_desc": "Main d'une seule paire. C'est-à-dire deux cartes de même valeur, comme deux As ou deux Valets, avec trois autres cartes qui ne forment aucune autre combinaison. Lorsque deux joueurs ont une paire, celui qui a la plus haute l'emporte ; s'ils ont tous deux la même paire, celui qui détient la carte la plus haute l'emporte.",
+    "hauteur_desc": "Une main qui ne présente aucune des combinaisons mentionnées ci-dessus est appelée une main à carte la plus haute. Lorsque deux joueurs ont tous deux une carte, la plus haute l'emporte. Si la plus haute carte est la même pour les deux, c'est la seconde carte la plus haute qui détermine le gagnant, et ainsi de suite.",
+
+    "carre": "Carre:",
+    "couleur": "Couleur:",
+    "quinte": "Quinte:",
+    "brelan": "Brelan:",
+    "deux_paires": "Deux paires:",
+    "une_paire": "Une paire:",
+    "hauteur": "Hauteur:",
+
+    "classement_mains": "Le classement des mains:",
+
+    "contact": "Nous contacter",
+
+    "envoyer": "Envoyer",
+
+    "message": "Votre message...",
+    
+    "mise_action": "a misé",
+    "jetons_mise": "jetons",
+    "coucher_action": "s'est couché",
+    "check_action": "a checké",
+
+    "err_get_tokens": "Vous devez avoir moins de 5000 jetons pour pouvoir en recharger.",
+
+    "roundcoders": "Equipe RoundCoders",
+    "credits": "Crédits",
+
+    "joueur_join": "a rejoint la partie",
+
+    "début_tour": "Début du tour n°",
+
+    "select_voleur": "Sélectionnez le joueur dont vous voulez voler une carte: ",
+    "select_voyante": "Sélectionnez le joueur dont vous voulez voir une carte: ",
+    "select_police": "Sélectionnez le joueur que vous voulez emprisonner: ",
+    "select_usurpateur": "Sélectionnez le joueur dont vous voulez obtenir le rôle: ",
+
+    "chat_p": "Discutez en direct avec les autres joueurs!",
+
+    "astuce_n1": "- Astuce n°1:",
+    "astuce_n2": "- Astuce n°2:",
+    "astuce_n3": "- Astuce n°3:",
+    "astuce_n4": "- Astuce n°4:",
+
+    "astuce_1": "Cliquez sur la boule de cristal pour utiliser votre pouvoir. Attention, il n'est disponible qu'une seule fois par partie!",
+    "astuce_2": "Prenez garde au policier, s'il vous arrête, vous ne pourrez pas utiliser votre pouvoir lors de cette partie...",
+    "astuce_3": "Si votre rôle ne vous plaît pas, pas de panique, un nouveau vous sera attribué lors d'une nouvelle partie.",
+    "astuce_4": "Cliquez sur les règles du jeu en haut de la page pour découvrir plus en détail les pouvoirs de chaque rôle.",
+
+    "select_echange": "Sélectionnez la carte à échanger",
+
+    "est": "est",
+
+    "visu_carte_voyante": "L'une des cartes du joueur",
+
+    "pouvoir_insolvable_1": "Grâce à votre pouvoir, vous pouvez suivre",
+    "pouvoir_insolvable_2": "en payant uniquement 50% du montant.",
+    "pouvoir_insolvable_3": "Cliquez sur suivre pour utiliser ce pouvoir:",
+
+    "non_pouvoir": "Ne pas utiliser le pouvoir",
+
+    "pouvoir_escroc_1": "Le pouvoir de l'escroc vous permet de récuperer la moitié de votre mise en vous couchant.",
+    "pouvoir_escroc_2": "Souhaitez-vous utiliser ce pouvoir?",
+    "pouvoir_escroc_3": "Oui, je me couche et récupère 50% de ma mise",
+
+    "musique_jeu": "- Musique du jeu: ",
+    "choix_langue": "- Choix de la langue:",
+
+    "role_attribuer": "Un rôle vous sera attribué lors du début de la prochaine partie.",
+
+    "clic_cristal": "Cliquez sur la boule de cristal pour activer le pouvoir.",
+
+    "parties_gagnees": "Nombre de parties gagnées:",
+
+    "attente_spec_six": "La table de jeu est complète! Vous êtes actuellement spectateur du joueur"
+}

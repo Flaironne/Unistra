@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "arbre.genealogique.h": "c",
+        "arbre_genealogique.h": "c",
+        "stdlib.h": "c",
+        "array": "c",
+        "*.tcc": "c",
+        "memory": "c",
+        "istream": "c",
+        "functional": "c",
+        "tuple": "c",
+        "utility": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

@@ -1,0 +1,4 @@
+Le chemin pour lancer le serveur : cd server/
+Pour lancer le serveur avec le script : npm run start
+Ensuite aller sur le votre localhost:3000 via un navigateur internet
+Et profitez du jeu ! 

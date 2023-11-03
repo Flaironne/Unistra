@@ -1,0 +1,40 @@
+@import './base.css';
+
+*{
+  color: white;
+  font-family: 'Rowdies';
+}
+
+body.all{
+  background-image: url("../img/background.svg");
+  background-size: cover;
+  background-repeat: repeat;
+}
+
+body.interface{
+  background-color: #025891;
+  margin: 0;
+  height: 95vh;
+}
+
+
+@media all and (orientation:portrait){ /* solution temporaire */
+  body.interface{
+    visibility: hidden;
+  }
+}
+
+#app{
+  height: 100%;
+}
+
+main{
+  height: 100%;
+}
+
+body.regles{
+  background-image: url("../img/background.jpg");
+  background-size: contain;
+  background-repeat: repeat;
+}
+

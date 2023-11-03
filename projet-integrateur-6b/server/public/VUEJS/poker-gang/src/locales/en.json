@@ -1,0 +1,214 @@
+{
+    "slogan": "Play, bluff, bet... steal.",
+    "inscriptiongang": "Join The Gang",
+    "connexion": "Log in",
+    "retour": "Back to home",
+    "username":"Username",
+    "Email":"Email",
+    "password":"Password",
+    "inscription_titre":"SING UP",
+    "connexion_titre":"LOG IN",
+   
+
+
+
+    "inscription": "Sign Up",
+    "birthday" : "Birthday:",
+    "username_existe": "This username already exists.",
+    "username_invalide": "Username must be between 6 and 12 characters.",
+    "mail_invalide": "The email address is invalid.",
+    "password_invalide": "Password must be between 6 and 12 characters.",
+    "majeur": "The user must be of legal age to register.",
+    "champ_vide": "Please fill in all fields.",
+    "compte": "I already have an account",
+
+
+    "champ_invalide": "Email or password incorrect. Try Again.",
+    "create_acc": "Create an account",
+
+
+    "regles": "Game rules",
+    "p_1": "Poker is a family of card games with many formulas and variants. It is practiced with several players with a deck generally of fifty-two cards and tokens representing the sums wagered. The sequences of play alternate distribution of cards and betting rounds.",
+    "p_2": "The rules of Poker Gang are not quite identical to those of traditional poker, we decided to revisit certain parts in order to build a variant. Our game implements roles for each player, referring to members of a 'gang'.",
+    "h3_1": "The main points:",
+    "ul_1_li_1": "Two cards, which can only be seen by the player who receives them, are dealt to each player.",
+    "ul_1_li_2": "The dealer reveals five cards – three at once, then a fourth, then a fifth – which can be used by all players to form the best possible five-card hand.",
+    "ul_1_li_3": "Players take turns betting before and after each card is dealt. To stay in the hand and see the next card, all players must have placed the same amount of chips in the pot.",
+    "ul_1_li_4": "The best poker hand wins the pot.",
+    "ul_1_li_5": "6 players maximum (dealer excluded)",
+    "p_3": "The first round always begins with an automatic bet from the person (First Shooter) who is to the left of the dealer (called 'Dealer' in Poker Gang) who will match 10 percent of the poorest player. Thereafter the “First Shooter” changes clockwise.",
+    "h3_2": "Actions available for each player:",
+    "ul_2_li_1": "Fold: forfeits the round losing his bet.",
+    "ul_2_li_2": "Check: If no one has bet anything, then a player can check and not bet any chips.",
+    "ul_2_li_3": "Bet: bet more chips.",
+    "ul_2_li_4": "Raise: call the previous bet.",
+    "h3_3": "Course of a game:",
+    "ul_3_li_1": "First round: no card is revealed, betting continues until all players check.",
+    "ul_3_li_2": "Second round: three cards are revealed by the croupier, the game continues in the classic way from right to left.",
+    "ul_3_li_3": "Third round: a fourth card is revealed, the game continues in the classic way from right to left.",
+    "ul_3_li_4": "Fourth round: the last card is revealed, the game continues in the classic way from right to left.",
+    "ul_3_li_5": "All-in round: if in a round each unfolded player makes an all-in, the five cards are then directly exposed.",
+    "ul_3_li_6": "Turn lying down: if all players fold then the game is over.",
+    "h3_4": "The different roles offered by Poker Gang:",
+    "pouvoir_role": "Each player can use the power of his role by clicking on the crystal ball. This power is only available once per game. At the end of each game, the roles are reassigned to each player.",
+    "h4_voleur": "The thief:",
+    "p_voleur": "Can exchange one of his cards for one of his opponents without knowing it.",
+    "h4_escroc": "The scammer:",
+    "p_escroc": "Can recover half of its bet by folding.",
+    "h4_voyante": "The infiltrator:",
+    "p_voyante": "Can see one player's card.",
+    "h4_policier": "The cop:",
+    "p_policier": "Can imprison a player so that they cannot use their special ability during this game.",
+    "h4_usurpateur": "The usurper: ",
+    "p_usurpateur": "Can take the role of one of the players.",
+    "h4_insolvable": "The insolvent:",
+    "p_insolvable": "Can call by paying only 50% of the bet amount.",
+
+
+
+    "deconnexion": "Sign out",
+    "profil": "Edit my profile",
+    "obt_jetons": "Get tokens",
+    "jouer": "Play",
+    "classement": "Ranking",
+
+
+    "rang": "Rank",
+    "joueur": "Player",
+    "victoire": "Wins",
+    "jetons": "Coins",
+
+    "fermer": "Close",
+
+    "jetons_en_jeu": "coins in play",
+    "jetons_restants": "remaining",
+
+    "miser": "Bet",
+    "coucher": "Fold",
+    "check": "Check",
+
+    "voleur": "Thief",
+
+    "input_jetons_vide": "Please enter an amount.",
+
+    "quitter_jeu": "Are you sure you want to quit the game?",
+
+    "oui": "Yes",
+    "non": "No",
+
+    "suivre": "Call",
+    "tapis": "All-in",
+
+    "gagner_partie": "won the game",
+
+    "remporter_jetons": "tokens won",
+
+    "rejouer_partie": "A new game will start. Click ready to participate.",
+
+    "pret": "Ready",
+
+    "attente_joueurs": "Waiting for players",
+
+    "rejoindre_partie": "Join a game",
+    "creer_partie": "Create a game",
+
+    "mise_negative": "Please enter a positive amount",
+    "jetons_manquants": "Not enough coins!",
+    "mise_mini": "Please bet at least",
+    "mise_blind": "Please bet at least",
+    "mise_zero": "Please bet an amount higher than 0",
+
+    "attente_spec": "A game is already taking place. Wait for it to finish to play.",
+
+    
+    "qfr_desc": "The strongest possible poker hand. It is made up of: Ace, King, Queen, Jack, 10, all of the same suit (spade, diamond, heart or club). If two players have a royal flush, they will split the pot.",
+    "qf_desc": "A straight flush is similar to the royal flush. This is a straight combined with a flush, but without the Ace as the highest card. For example: 9, 8, 7, 6 and 5, all of the same color. When two players have a straight flush, the player with the highest card in the suit wins. When the two hands are identical, the pot is divided between the two players.",
+    "carre_desc": "A quad is a hand that contains four cards of the same rank such as four Aces or four Jacks. When two players have a quad, whoever has the highest wins. If both players have the same square, the pot is awarded to the player with the fifth highest card, also called the sidekick.",
+    "full_desc": "Three cards of the same rank combined with two others of the same rank. Examples of full houses: three kings and two 10s, or three 4s and two aces. When two players have a full house, the one with the three highest cards of the same rank wins. In the two examples given above, the player who has all three Kings wins.",
+    "couleur_desc": "A flush is a hand that contains five cards of the same suit: five spades, five clubs, five diamonds or five hearts. When two or more players have a flush, whoever has the highest card wins the hand. If two hands have the same highest card, the second highest card will determine the winner, and so on.",
+    "quinte_desc": "Five cards that follow each other numerically and form a straight, such as 6, 5, 4, 3 and 2. When two or more players have a straight, whoever has the highest card wins. If two players have the same high card, they will split the pot. The Ace can play as the highest card but also as the lowest. For example: Ace, King, Queen, Jack, 10 or Ace, 2, 3, 4, 5. The Ace is the only card that can be used in this way.",
+    "brelan_desc": "Three cards of the same value, such as three jacks or three 8s. When two players have a set, the player with the higher set wins. If two players have the same set, the player with the fourth highest card wins.",
+    "deux_paires_desc": "A hand that involves having two pair, such as two 10s and two 6s. If two players have two pair, the one with the higher pair wins. If both players have the same pair, the player with the second highest pair wins. If the two pairs are identical for both players, the one whose sidekick is higher wins.",
+    "une_paire_desc": "One pair hand. That is, two cards of the same value, such as two Aces or two Jacks, with three other cards that form no other combination. When two players have a pair, the one with the highest wins; if they both have the same pair, whoever holds the highest card wins.",
+    "hauteur_desc": "A hand that does not feature any of the combinations mentioned above is called a high card hand. When two players both have a card, the highest wins. If the highest card is the same for both, the second highest card determines the winner, and so on.",
+
+    "carre": "Quads:",
+    "couleur": "Flush:",
+    "quinte": "Straight:",
+    "brelan": "Trips:",
+    "deux_paires": "Two pairs:",
+    "une_paire": "One pair:",
+    "hauteur": "High card:",
+
+    "classement_mains": "Hand rankings:",
+
+    "contact": "Contact us",
+
+    "envoyer": "Send",
+
+    "message": "Your message...",
+
+    "mise_action": "has bet",
+    "jetons_mise": "tokens",
+    "coucher_action": "has folded",
+    "check_action": "has checked",
+
+    "err_get_tokens": "You must have less than 5000 tokens to be able to top up.",
+
+    "roundcoders": "RoundCoders Team",
+    "credits": "Credits",
+
+    "joueur_join": "has joined the game",
+
+    "début_tour": "Start of the round n°",
+
+    "select_voleur": "Select the player whose card you want to steal:",
+    "select_voyante": "Select the player whose card you want to see:",
+    "select_police": "Select the player you want to imprison:",
+    "select_usurpateur": "Select the player whose role you want to get:",
+
+    "chat_p": "Chat live with other players!",
+
+    "astuce_n1": "- Tip n°1:",
+    "astuce_n2": "- Tip n°2:",
+    "astuce_n3": "- Tip n°3:",
+    "astuce_n4": "- Tip n°4:",
+
+    "astuce_1": "Click on the crystal ball to use your power. Attention, it is only available once per game!",
+    "astuce_2": "Beware of the policeman, if he arrests you, you won't be able to use your power during this game...",
+    "astuce_3": "If you don't like your role, don't panic, a new one will be assigned to you during a new game.",
+    "astuce_4": "Click on the game rules at the top of the page to learn more about the powers of each role.",
+
+    "select_echange": "Select the card to trade",
+
+    "est": "is",
+
+    "visu_carte_voyante": "One of the card of",
+
+    "pouvoir_insolvable_1": "Thanks to your power you can call",
+    "pouvoir_insolvable_2": "paying only 50% of the amount.",
+    "pouvoir_insolvable_3": "Click 'call' to use this power:",
+
+    "non_pouvoir": "I don't use the power",
+
+    "pouvoir_escroc_1": "The power of the crook lets you get half your bet back when you fold.",
+    "pouvoir_escroc_2": "Would you like to use this power?",
+    "pouvoir_escroc_3": "Yes, I fold and get 50% of my bet back",
+
+    "musique_jeu": "- Music of the game: ",
+    "choix_langue": "- Language choice: ",
+
+    "role_attribuer": "You will be assigned a role at the start of the next game.",
+
+    "clic_cristal": "Click on the crystal ball to activate the power.",
+
+    "parties_gagnees": "Number of games won:",
+
+    "attente_spec_six": "The game table is full! You are currently a spectator of the player"
+    
+
+
+
+
+    
+}

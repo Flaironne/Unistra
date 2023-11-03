@@ -1,0 +1,27 @@
+{
+    "name": "poker-gang",
+    "version": "1.0.0",
+    "main": "main.cjs",
+    "private": true,
+    "type": "commonjs",
+    "description": "Poker Gang game",
+    "license": "MIT",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview",
+        "electron:start": "electron ."
+    },
+    "author": "Round Coders",
+    "dependencies": {
+        "vue": "^3.2.47",
+        "vue-i18n": "^9.3.0-beta.16",
+        "vue-router": "^4.1.6"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^4.0.0",
+        "electron": "^24.2.0",
+        "electron-packager": "^17.1.1",
+        "vite": "^4.3.3"
+    }
+}
